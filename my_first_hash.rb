@@ -1,5 +1,5 @@
 def my_hash
-  my_hash = {"money"=>1200}  
+  my_hash = {"money"=>1200}
 end
 
 
